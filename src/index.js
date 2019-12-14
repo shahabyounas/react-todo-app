@@ -6,7 +6,7 @@ import "../src/App.css"
 const App = () => {
   return (
     <>
-      <h1 className="align_center">Todo App</h1>
+      <h1 className="align_center">Todo App CI/CD Test AWS Codepipeline</h1>
       <ManageTodo />
     </>
   )
